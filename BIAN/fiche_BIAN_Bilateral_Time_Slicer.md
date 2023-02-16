@@ -18,3 +18,6 @@ interactive
 
 l'ecran et acoter au mur de maniéure horizantale, a son saumer il si trouve un capteur de mouvent qui repére et enregistre la personne se trouvent a la bonne distance qui est elle même définit par une ligne blanche au sol ce qui permet au public de savoir ou se mettre pour que le capteur de mouvemtn les detecter et puisse commencer son enregisterement. En haut a gauche et a droite de l'ecran avec une légaire distance si trouve un faisaut de lumieur diriger vers le Bilateral Time Slicer.
 
+
+
+![64099465-porter-kawaii-animal-mignon-petite-icône-isolé-et-plat-illustration](https://user-images.githubusercontent.com/112128653/219475076-2d572d46-7ab2-4403-a46e-f8270dd6bdf2.jpg)
