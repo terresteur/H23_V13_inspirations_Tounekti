@@ -20,4 +20,4 @@ l'ecran et acoter au mur de maniéure horizantale, a son saumer il si trouve un 
 
 ![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/Bian_ensemblev.png)
 
-
+![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/Bian_ensemblev.png)
