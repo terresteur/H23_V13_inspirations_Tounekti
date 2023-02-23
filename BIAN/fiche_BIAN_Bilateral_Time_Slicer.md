@@ -54,11 +54,17 @@ l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un
 
 <h1>Composantes et techniques</h1>
 
-*camera
-*ordinateur
-*clavier
-*cable d'alimentation
-*HDMI extendeur
+<h3>*camera</h3>
+
+<h3>*ordinateur</h3>
+
+<h3>*clavier</h3>
+
+<h3>*cable d'alimentation</h3>
+
+<h3>*HDMI extendeur</h3>
+</br>
+</br>
 
 ![sept](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_sept.png)
 
@@ -66,9 +72,13 @@ l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un
 
 <h1>Éléments nécessaires à la mise en exposition</h1>
 
-*prise
-*wifi
-*lumieur qui met en evidence l'oevrue
+<h3>*prise</h3>
+
+<h3>*wifi</h3>
+
+<h3>*lumieur qui met en evidence l'oevrue</h3>
+</br>
+</br>
 
 ![un](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_un.png)
 
