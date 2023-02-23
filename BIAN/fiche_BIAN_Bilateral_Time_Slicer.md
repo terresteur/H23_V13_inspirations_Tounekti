@@ -12,7 +12,8 @@ Arsenal art contemporain Montréal plus précisement à 2020 Rue William, Montr�
 
 <h1>Type d'exposition</h1>
 
-Temporaire et exterieure
+<h3>*Temporaire et exterieure</h3>
+</br>
 
 <h1>Date de ma visite</h1>
 
