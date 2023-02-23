@@ -1,4 +1,4 @@
-<h1>exposition</h1>
+<h1>Exposition</h1>
 
 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE
 
