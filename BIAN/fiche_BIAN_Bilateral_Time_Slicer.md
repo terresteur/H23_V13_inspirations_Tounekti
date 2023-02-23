@@ -46,8 +46,6 @@ interactive
 
 ![quatre](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_quatre.png)
 
-![sept](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_sept.png)
-
 <h1>Mise en espace</h1>
 
 l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un capteur de mouvent qui repére et enregistre la personne se trouvent a la bonne distance qui est elle même définit par une ligne blanche au sol ce qui permet au public de savoir ou se mettre pour que le capteur de mouvemtn les detecter et puisse commencer son enregisterement. En haut a gauche et a droite de l'ecran avec une légaire distance si trouve un faisaut de lumieur diriger vers le Bilateral Time Slicer.
@@ -61,6 +59,10 @@ l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un
 *clavier
 *cable d'alimentation
 *HDMI extendeur
+
+![sept](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_sept.png)
+
+![trois](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_trois.png)
 
 <h1>Éléments nécessaires à la mise en exposition</h1>
 
