@@ -2,7 +2,7 @@
 
 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE
 
-![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_huit.png)
+![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_neuf.png)
 
 <h1>Lieu</h1>
 
@@ -36,8 +36,6 @@ Raphael Lozano-Hemmer
 
 l'oeuvre tutilise un systeme de suivi biométrique qui trouve l'axe de symétrie d'une personne de public en utilisant la détection d'un visage. Quand il trouve un viase et l'axe une orientation a peut prés verticale est opérée ce qui divide l'imga de la caméras en direct en deux parties. À chaque nouveaux visitant une partis divisée en deux est de nouveaux ajouter, les tranches de temps qui a etais pris et diviser en deux sont enregistrées et mis de coté ce qui crées un sandwitch de video pris. 
 
-![un](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_un.png)
-
 ![deux](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_deux.png)
 
 <h1>Type d'installation</h1>
@@ -54,6 +52,8 @@ interactive
 
 l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un capteur de mouvent qui repére et enregistre la personne se trouvent a la bonne distance qui est elle même définit par une ligne blanche au sol ce qui permet au public de savoir ou se mettre pour que le capteur de mouvemtn les detecter et puisse commencer son enregisterement. En haut a gauche et a droite de l'ecran avec une légaire distance si trouve un faisaut de lumieur diriger vers le Bilateral Time Slicer.
 
+![dix](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_dix.png)
+
 <h1>Composantes et techniques</h1>
 
 *camera
@@ -68,6 +68,8 @@ l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un
 *wifi
 *lumieur qui met en evidence l'oevrue
 
+![un](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_un.png)
+
 ![cinq](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_cinq.png)
 
 ![six](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_six.png)
@@ -75,6 +77,8 @@ l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un
 <h1>Expérience vécue</h1>
 
 Le visiteur dois se placer sur le scotche blanck qui est a la bonne distance pour activer l'interraction. Le visiteur n'auras qu'a attendre un cours lapse de temps pour activer la prise de video qui vas etre diviser en deux parti.
+
+![onze](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_onze.png)
 
 <h1>Ce qui ma plus</h1>
 
