@@ -34,7 +34,7 @@ Raphael Lozano-Hemmer
 
 <h1>Description de l'oeuvre</h1>
 
-l'oeuvre tutilise un systeme de suivi biométrique qui trouve l'axe de symétrie d'une personne de public en utilisant la détection d'un visage. Quand il trouve un viase et l'axe une orientation a peut prés verticale est opérée ce qui divide l'imga de la caméras en direct en deux parties. À chaque nouveaux visitant une partis divisée en deux est de nouveaux ajouter, les tranches de temps qui a etais pris et diviser en deux sont enregistrées et mis de coté ce qui crées un sandwitch de video pris. 
+l'oeuvre utilise un systeme de suivi biométrique qui trouve l'axe de symétrie d'une personne de public en utilisant la détection d'un visage. Quand il trouve un viase et l'axe une orientation a peut prés verticale est opérée ce qui divide l'imga de la caméras en direct en deux parties. À chaque nouveaux visitant une partis divisée en deux est de nouveaux ajouter, les tranches de temps qui a etais pris et diviser en deux sont enregistrées et mis de coté ce qui crées un sandwitch de video pris. 
 
 ![deux](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_deux.png)
 
