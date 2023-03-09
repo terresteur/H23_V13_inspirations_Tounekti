@@ -11,6 +11,10 @@ Maria Laura Coronel
 
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
+<h3>Instalation en cours<h3>
+  
+  
+
 <h2>EDRIA</h2>
 
 Elwin Durand
@@ -27,6 +31,8 @@ Jean-christophe
 
 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+  
+ <h3>Instalation en cours<h3>
 
 <h2>Luma sol</h2>
 
@@ -39,6 +45,8 @@ Michaël Simard
 Pénélope Morrisson
 
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+   
+  <h3>Instalation en cours<h3>
 
 <h2>Boucler la boucle</h2>
 
@@ -52,4 +60,6 @@ Maxime Des Lauriers
 
 
 https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
+    
+   <h3>Instalation en cours<h3>
 
