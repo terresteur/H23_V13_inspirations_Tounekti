@@ -38,7 +38,7 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
   
  <h3>Instalation en cours</h3>
  
- <h4>Ils sont entrains d'instaler des lumieures, des fausse feuilles et un poteau de metal qui vas permettre de donner vie a l'instalation. Il y ura aussis des projecteur de lumieur colorer pour sublimer toute le reste de l'installation. Conte au touche technique il prevoit de mettre (possiblement) des capteur de mouvement qui declancherant cerlaine animation de la par des lumiere mais aussis une musique differante. Ont complement il y auras les spiquers pour fair sortir les sonoritais.</h4>
+ <h4>Ils sont entrains d'instaler des lumieures, des fausse feuilles et un poteau de metal qui vas permettre de donner vie a l'instalation. Il y aura aussis des projecteur de lumieur colorer pour sublimer toute le reste de l'installation. Conte au touche technique, il prevoit de mettre (possiblement) des capteur de mouvement qui declancherant certaine animation de la par des lumieure mais aussis une musique differante. Ont complement il y auras les spiquers pour fair sortir les sonoritais.</h4>
 
 <h2>Luma sol</h2>
 
