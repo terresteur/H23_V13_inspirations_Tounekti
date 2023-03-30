@@ -12,6 +12,11 @@ Maria Laura Coronel
 
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
+<h3>Lien avec le thème</h3>
+
+<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donner une respresentation artistique de la faune marine a travers des viuels et des sont qui sons aussis respecter dans le thème ons nous fesant écouter  </h4>
+<br />
+
 <h3>Instalation en cours</h3>
   
 <h4>Ils son entrain d'instaler un logiciel qui te permet, en cliquant sur un des animaux de la phones marine, de fair apparaitre une description de l'animal representer sur le bouton, il y auras avec la description une animation qui vas se declancher fesant apparaitre l'animal entrain de nager dans l'ocean autour de nous,  dans une piece planger dans le noir.
