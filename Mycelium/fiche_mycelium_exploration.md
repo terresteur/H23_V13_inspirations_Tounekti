@@ -68,7 +68,7 @@ Maxime Des Lauriers
 
  <h3>Lien vers le projet</h3>
 
-https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
+
     
    <h3>Instalation en cours</h3>
 
