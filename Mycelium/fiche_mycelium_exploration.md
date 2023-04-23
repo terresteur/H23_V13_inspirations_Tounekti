@@ -14,7 +14,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 <h3>Lien avec le thème</h3>
 
-<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donner une respresentation artistique de la faune marine a travers des viuels et des sont qui sons aussis respecter dans le thème ons nous fesant écouter  </h4>
+<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des viuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine.  </h4>
 <br />
 
 <h3>Instalation en cours</h3>
