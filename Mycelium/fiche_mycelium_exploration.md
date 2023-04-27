@@ -91,4 +91,10 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 <br />
     
    <h3>Instalation en cours</h3>
+   
+   
+<h2>3 cours pratique pour ces projet</h2>
+<h4>-interactivité web</h4>
+<h4>-Objets interactifs</h4>
+<h4>-Traitement audiovisuel</h4>
 
