@@ -119,10 +119,10 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 Echomarine : En essayons ce projet je me trouverais surementt fasciné par la faune marine et curieuse de savoir plus sur ces animeaux car l'illustration de celle-ci en animation diffuser tout autoure de la piece donne vie un monde que je vois d'abitude que sur mon portable de fascont assez détacher alors se raprochement crée par l'utilisation du projecteur créerais surement une réel facsination de ma part. Le chant des animeaux en l'air a prémieur vue de donner une certaine impression de communication avec l'animal ce qui créerais surement en moi une curieusiter motiver par l'envie de comprendre se que dit cette animal.
 <br />
 <br />
-EDRIA : 
+EDRIA : En essayons ce projet je me sentirais surement émervailler par les couleur et le jeux de lumieure qui se presentaire devant car l'installation présente des poteaux en cercle décore de manieur vejetale. Les capteur de mouvement disposé sur le poteaux au milieu auras une interraction qui activeras de la musique et des lumieurs donc je peus facilement m'imaginer l'émervaillement dans mes yeux en voyant le résultat de mes actions se transformer en vrai spectale de lumieure.
 <br />
 <br />
-Luma sol :
+Luma sol : 
 <br />
 <br />
 Boucler la boucle  :
