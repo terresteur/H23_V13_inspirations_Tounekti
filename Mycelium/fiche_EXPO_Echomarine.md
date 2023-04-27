@@ -24,6 +24,6 @@ Ils sont aussis entrain de preparer ont complement des video projecteurs qui leu
 <br />
 
 <h2>3 cours pratique pour ces projet</h2>
-<h3>-interactivité web</h3>
-<h3>-Objets interactifs</h3>
-<h3>-Traitement audiovisuel</h3>
+<h4>-interactivité web</h4>
+<h4>-Objets interactifs</h4>
+<h4>-Traitement audiovisuel</h4>
