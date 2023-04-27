@@ -66,7 +66,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 <h3>Lien avec le thème</h3>
 
-<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des viuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine. L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
+<h4> Dans le projet Luma sol ils y est respecter l'aspetc d'une nature imaginaire en mentrant une representation artistique de la faune forestiet a travers des viuels au en couleur appuient la diversiter de couleur que peut contenire la faune, des lumieur en donc étais disposais dans un arbre de manieur a appuient l'aspect colorique de cette nature imaginaire. L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un velo qui en pedalons permet de nous propulser dans l'est différante étapes de la vie de cette faune imaginaire grace a des changement périodique de la couleur des lumieurs sur l'arbre fesant ainsis penser au différente saisons.  </h4>
 <br />
    
   <h3>Instalation en cours</h3>
@@ -87,7 +87,7 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 
 <h3>Lien avec le thème</h3>
 
-<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des viuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine. L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
+<h4> Dans le projet Boucler la boucle ils y est respecter l'aspetc d'une nature imaginaire en fesant une représentation artistique de la représention des champinion avec des  des suites de poteaux qui sactive en chaine après notre passage sur le premier. L'aspect du parcourd lumineux est aussis respecter grace a l'utilisation de detecteur de mouvements qui vont activer une suite de lumieur acsentuent l'aspect vivante de cette nature.  </h4>
 <br />
     
    <h3>Instalation en cours</h3>
