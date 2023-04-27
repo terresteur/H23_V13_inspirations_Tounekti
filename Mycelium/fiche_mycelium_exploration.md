@@ -122,9 +122,9 @@ Echomarine : En essayons ce projet je me trouverais surementt fasciné par la fa
 EDRIA : En essayons ce projet je me sentirais surement émervailler par les couleur et le jeux de lumieure qui se presentaire devant car l'installation présente des poteaux en cercle décore de manieur vejetale. Les capteur de mouvement disposé sur le poteaux au milieu auras une interraction qui activeras de la musique et des lumieurs donc je peus facilement m'imaginer l'émervaillement dans mes yeux en voyant le résultat de mes actions se transformer en vrai spectale de lumieure.
 <br />
 <br />
-Luma sol : 
+Luma sol : En essayons ce projet je me sentirais surement dertminer et fier car le fait de faire du sport pour activer et produit une suit de couleur de lumieur me donne envhie de donner tout se que j'ai de détermination pour arriver au bout de l'interraction avec les lumieurs et le fai
 <br />
 <br />
-Boucler la boucle  :
+Boucler la boucle  : En essayons ce projet je me sentirais surement intriguait car le fait que des lumieur s'active en fil lorsque je marche est intriguant et apprait je passerait sans doute a autre chose a cause du manque d'effet spectaculaire qui suive ou d'animation.
 
  
