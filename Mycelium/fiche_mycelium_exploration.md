@@ -117,8 +117,14 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 
 <h2>Mon ressentis</h2>
 Echomarine : En essayons ce projet sje me trouverais surementt fasciné par la faune marine et curieuse de savoir plus sur ces animeaux car l'illustration de celle-ci en animation diffuser tout autoure de la piece donne vie un monde que je vois d'abitude que sur mon portable de fascont assez détacher alors se raprochement crée par l'utilisation du projecteur créerais surement une réel facsination de ma part. Le chant des animeaux en l'air a prémieur vue une certaine impression de communication avec l'animal ce qui créerais surement en moi une curieusiter motiver par l'envie de comprendre se que dit cette animal.
+<br />
+<br />
 EDRIA : 
+<br />
+<br />
 Luma sol :
+<br />
+<br />
 Boucler la boucle  :
 
  
