@@ -94,7 +94,12 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
    
    
 <h2>3 cours pratique pour ces projet</h2>
-<h4>-interactivité web</h4>
-<h4>-Objets interactifs</h4>
-<h4>-Traitement audiovisuel</h4>
+-interactivité web
+<br />
+-Objets interactifs
+<br />
+-Traitement audiovisuel
+
+<h2>composante technologique</h2>
+-les DMX est une technologie utilisée pour contrôler les lumières et les effets spéciaux dans les spectacles et les événements.
 
