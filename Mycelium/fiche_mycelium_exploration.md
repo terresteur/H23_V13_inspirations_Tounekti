@@ -43,7 +43,7 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 <h3>Lien avec le thème</h3>
 
-<h4> Dans le projet EDRIA ils y est respecter l'aspetc d'une nature imaginaire en nous mentrons . L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
+<h4> Dans le projet EDRIA ils y est respecter l'aspetc d'une nature imaginaire en nous fesant decouvriire un environnement féerique d'une nature imaginaire avec des lumieure et une interractions concrete avec celle-ci . L'aspect du parcourd lumineux et aussis respecter grace a la dispositions en cercle de poteaux metalique possedant des atrer du nature avironnante, au milieu du cercle ils y ais mis un dispositive aillons des allure de grande faune permantant d'interragire avec cette meme nature.  </h4>
 <br />
   
  <h3>Instalation en cours</h3>
