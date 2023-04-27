@@ -14,7 +14,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 <h3>Lien avec le thème</h3>
 
-<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des viuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine.  </h4>
+<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des visuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine. L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
 <br />
 
 <h3>Instalation en cours</h3>
@@ -40,6 +40,11 @@ Jean-christophe
  <h3>Lien vers le projet</h3>
 
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+
+<h3>Lien avec le thème</h3>
+
+<h4> Dans le projet EDRIA ils y est respecter l'aspetc d'une nature imaginaire en nous mentrons . L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
+<br />
   
  <h3>Instalation en cours</h3>
  
@@ -58,6 +63,11 @@ Pénélope Morrisson
  <h3>Lien vers le projet</h3>
 
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+
+<h3>Lien avec le thème</h3>
+
+<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des viuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine. L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
+<br />
    
   <h3>Instalation en cours</h3>
 <br />
@@ -74,6 +84,11 @@ Maxime Des Lauriers
  <h3>Lien vers le projet</h3>
 
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
+
+<h3>Lien avec le thème</h3>
+
+<h4> Dans le projet Echomarine ils y est respecter l'aspetc d'une nature imaginaire en donnant une representation artistique de la faune marine a travers des viuels et  qui sons aussis respecter dans le thème ons nous fesant écouter les cris de ses animeaux maritine. L'aspect du parcourd lumineux et aussis respecter grace a l'utilisation d'un projecteur qui permet d'avoir l'impression de déambuler dans un parcourd de lumieure océanique.  </h4>
+<br />
     
    <h3>Instalation en cours</h3>
 
