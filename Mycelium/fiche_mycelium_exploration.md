@@ -106,8 +106,11 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 <h3>projets selon mes préférence</h3>
 1 = Echomarine : La compression simpliste et claire de se projet étais agréable, l'impression d'être transporter dans les eaux marinne mon aussis convaincus de le mettre a la premieure place, l'animation étais interresante a voir et me motiver a découvre l'histoire de cette créature et il y avait aussis a se projet un bande sonore qui rentrer parfaitement dans le theme, se projet a étais pour toute ses raison un coups de coeur.
 <br />
+<br />
 2 = EDRIA : J'ai mis ce projet  a la deuxieme place car même si il a une interractions interesante avec le dit projet, une bande sonore a couper le souffle qui donne satisfactions d'avoir fait l'efford de trouver le nombre adecois de personne pour l'activer et un jeux de lumieur incroyable ils y a de la difficulter a comprendre comment activer et interragire avec le projet a cause de capteur mal visible, sa ma prit du temps a comprendre qu'il fallait etre quatre et non trois pour l'activer, c'est donc pour tout ces raison qu'il ce trouve a la deuxieme place. 
 <br />
+<br />
 3 = Luma sol : Ce projet laisse une belle surprise pendant qu'ons pédale en activant un jeux de lumieure mais malheuresement le manque de musique la rendue trés vite ennuiant a l'utilisation se qui fait qu'ons se lasse trés vite des jeux de lumieure qu'ons active sur l'arbre qui reste en sois trés rudimentaire par repport a une animation que tu actionne, c'est donc pour ses raisons qu'il se trouve a la troisieme place.
+<br />
 <br />
 4 = Boucler la boucle  : se Projet même si par raport au troisiéme présenter des sonoriter ils étaient beaucoup trop simpliste et ne presente pas de réel musique interésante mais que des sons de goute se qui le rend pas trés interrésant. Les jeux de lumieure son plutot simpliste même si le fait qui suive le trajet étais une bonne répartis il n'étais assex mis en avant avec plusieur jeux de lumieurs.
