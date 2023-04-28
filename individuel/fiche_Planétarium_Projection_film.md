@@ -6,7 +6,7 @@
 C'est une exposition temporaire et intérieur.
 
 <h2>Date de ma visite</h2>
-2023 Jeudi 23 mars.
+ .
 
 <h2>Titre du dispositive</h2>
 Echomarine
