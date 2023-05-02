@@ -1,7 +1,7 @@
 <h2>Planétarium</h2>
 ![devant](medias/devant.png)
 <h2>Lieu de l'exposition</h2>
-![entree](medias/entree.png)
+![image sélection nom du fichier](medias/entree.png) 
 
 <h2>Type d'exposition</h2>
 C'est une exposition temporaire et intérieur.
