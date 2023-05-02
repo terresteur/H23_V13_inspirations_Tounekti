@@ -12,7 +12,7 @@ C'est une exposition temporaire et intérieur.
 
 <h2>Titre du dispositive</h2>
 Echomarine
-<img url="https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png">
+
 <h2>Nom des artiste</h2>
 
 
