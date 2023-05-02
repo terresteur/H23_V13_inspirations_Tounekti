@@ -1,7 +1,7 @@
 <h2>Planétarium</h2>
 ![devant](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant_.png)
 <h2>Lieu de l'exposition</h2>
-![entree](https://user-images.githubusercontent.com/112128653/235737099-1d21a70d-5e9d-4be7-a27e-d07a30f9e43f.png)
+![entree](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
 
 <h2>Type d'exposition</h2>
 C'est une exposition temporaire et intérieur.
