@@ -31,7 +31,7 @@ Le dispositive est installé dans le petit studio, le visuel est difuser grace a
 
 <h2>Composantes et techniques</h2>
 -animation des animaux et de la mer
--site web
+-site web 
 -dessin des animaux du site
 
 <h2>Éléments nécessaires</h2>
