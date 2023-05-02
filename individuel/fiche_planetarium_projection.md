@@ -2,7 +2,7 @@
 
 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE
 
-![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_neuf.png)
+![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
 
 <h1>Lieu</h1>
 
