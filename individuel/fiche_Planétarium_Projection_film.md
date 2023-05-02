@@ -3,7 +3,7 @@
 <img url">
 
 <h2>Lieu de l'exposition</h2>
-![image sélection nom du fichier](medias/entree.png) 
+![image sélection nom du fichier](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png?raw=true) 
 
 <h2>Type d'exposition</h2>
 C'est une exposition temporaire et intérieur.
