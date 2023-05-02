@@ -1,5 +1,6 @@
 <h2>Planétarium</h2>
 ![devant](medias/devant.png)
+<img url">
 
 <h2>Lieu de l'exposition</h2>
 ![image sélection nom du fichier](medias/entree.png) 
