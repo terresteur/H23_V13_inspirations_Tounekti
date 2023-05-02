@@ -51,5 +51,5 @@ Le visiteur doivent etre quatre et se placer devant les les quatre capteur dispo
 <h2>Ce que j'ai aimé</h2>
 J'ai aimé dans se projet interactive particuliairement La facilite de compression du fonctionnement de l'activiter pour etre plus precis le faite qu'on rentre dans une piece avec des décore maritine animé et qu'il si trouve au milieu un ordinateur possé en hauteur sur une table avec un page web facile a comprendre garce au faite qu'il y a sur la page juste des rend avec un animal marin différent dans chaque rend. L'ordinateur possé au milieu permet de comprendre que cet ordi est pour l'utilisation des visiteur. Cette disposition claire de comment l'activiter marche me rappele que sa peut etre frustant de mal comprendre comment fonctionne une activiter et que en peut penser qu'elle ne fonctionne pas cela mets un poind sur la trés bonne disposition au quel j'aimerais m'inspirer pour mes futures projet.
 
-<h2>Mauvais aspect</h2>
+<h2>Mauvais aspect</h2>x
 Ce que je n'est pas aimé dans Échomarine c'est son animation de fond de ses animeaux marin car l'animation de fond ne change pas dépandament de l'animal marin que ta choisis se qui donne l"impression ne rester sur place et cela enléve l'impression d'immerser dans la faune qu'ons nous présente .
