@@ -8,7 +8,7 @@
 
 Arsenal art contemporain Montréal plus précisement à 2020 Rue William, Montréal, QC H3J 1R8. 
 
-![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_huit.png)
+![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant.png)
 
 <h1>Type d'exposition</h1>
 
