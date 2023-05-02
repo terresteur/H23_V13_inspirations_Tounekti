@@ -13,13 +13,7 @@ C'est une exposition temporaire et intérieur.
 Echomarine
 
 <h2>Nom des artiste</h2>
-Florence Lapierre
 
-Natasha Abdallah
-
-Tracy Gua
-
-Maria Laura Coronel
 
 <h2>Année de réalisation</h2>
 2023
