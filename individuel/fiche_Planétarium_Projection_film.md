@@ -1,5 +1,6 @@
 <h2>Planétarium</h2>
 ![devant](medias/devant.png)
+
 <h2>Lieu de l'exposition</h2>
 ![image sélection nom du fichier](medias/entree.png) 
 
@@ -11,7 +12,7 @@ C'est une exposition temporaire et intérieur.
 
 <h2>Titre du dispositive</h2>
 Echomarine
-
+![test](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
 <h2>Nom des artiste</h2>
 
 
