@@ -1,6 +1,6 @@
 <h1>Exposition</h1>
 
-6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE
+Planétarium
 
 ![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
 
@@ -12,7 +12,7 @@ Arsenal art contemporain Montréal plus précisement à 2020 Rue William, Montr�
 
 <h1>Type d'exposition</h1>
 
-<h3>*Temporaire et exterieure</h3>
+<h3>C'est une exposition temporaire et intérieur.</h3>
 </br>
 
 <h1>Date de ma visite</h1>
