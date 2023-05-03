@@ -2,13 +2,14 @@
 
 Planétarium
 
-![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
+![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant.png)
+
 
 <h1>Lieu</h1>
 
 Planétarium Rio Tinto Alcan
 
-![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant.png)
+![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
 
 <h1>Type d'exposition</h1>
 
