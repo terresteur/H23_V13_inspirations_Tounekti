@@ -1,4 +1,4 @@
-Conferance du contexte muséal
+Conférence du contexte muséal
 
 La conférence que Yanick Daunais nous a montrer sur le studio de conception et de production multimédia spécialisé en mise en valeur du contenus parle 
 notamment de son expériences vécus mais aussi de la façon que l’on peut structurer le cadrage du œuvre pour le sublimer au public grâce à une bonne structure.
