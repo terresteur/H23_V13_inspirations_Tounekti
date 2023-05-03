@@ -95,11 +95,11 @@ Le visiteur s'assit dans l'un des siege et entre dans l'immersion d'un monde qu"
 
 <h1>Ce qui ma plus</h1>
 
-Ce qui ma plus dans cette exposition cet la simpliciter de l'idée, diviser en deux une video, mais cela reste superficiel car l'oevreu meme simple nous pousse a nous poser la question de notre existence sur la ligne du temps de notre planete. Cela ma inspirer pour fair un projet qui parlerais justement avec suptiliter du temps.
+Ce qui ma plus dans cette immersion c'est l'idée de poser des siege sufisament pencher pour admirer le monde que le projecteur nous montre en haut. Il y a aussi le cadre a louer a cette immersion avec un toit rond permettant de sublimer la projection 360 degré.
 
 <h1>Ce qui ma pas plus</h1>
 
-Ce qui m'a déplus dans cette oevrue la dimension lineair des video qui horaire put etre mis de facon plus aleatoir sur l'oevrue pour faire rescentir au visiteur un sentiment de manque de control sur le temps qui passe et qui et imprevisible.
+Ce qui m'a déplus dans cette oevrue C'est le manque d'effet sonore percutant en nous montre les differentes planete du systeme solaire mais le manque d'effet sonore qui laisse beaucoup plus la voix qui explique parler nous permet pas de divaguer dans cette immersion et de nous laisse rentrer dans leur presentation des diverse planete du systeme solaire.
 
 
 <h1>Références</h1>
