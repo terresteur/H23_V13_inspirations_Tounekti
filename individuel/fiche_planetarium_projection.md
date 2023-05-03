@@ -2,14 +2,14 @@
 
 Planétarium
 
-![neuf](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant.png)
+![devant](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant.png)
 
 
 <h1>Lieu</h1>
 
 Planétarium Rio Tinto Alcan
 
-![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
+![entree](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/entree.png)
 
 <h1>Type d'exposition</h1>
 
@@ -24,7 +24,9 @@ dimanche 26 mars 2023.
 
 CHRONIQUES CÉLESTES
 
-![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/Bian_ensemblev.png)
+![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/mise_en_lieu1.png)
+![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/mise_en_lieu2.png)
+![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/mise_en_lieu3.png)
 
 <h1>Nom de l'artiste</h1>
 
@@ -38,15 +40,13 @@ Le spectacle "Chroniques célestes" présenté au Planétarium de Montréal a é
 <h1>Description de l'oeuvre</h1>
 
 
-![deux](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_deux.png)
+![deux]()
 
 <h1>Type d'installation</h1>
 
 immersive
 
-![trois](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_trois.png)
-
-![quatre](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_quatre.png)
+![materiel2](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/materiel2.png)
 
 <h1>Fonction du dispositif</h1> 
 
