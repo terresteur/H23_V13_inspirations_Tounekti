@@ -21,7 +21,7 @@ dimanche 26 mars 2023.
 
 <h1>Titre de l'oeuvre</h1>
 
-Un mois de mai avec la Lune
+CHRONIQUES CÉLESTES
 
 ![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/Bian_ensemblev.png)
 
@@ -55,7 +55,7 @@ Chroniques célestes utilise de la projection à 360 degrés dans un espace gran
 
 <h1>Composantes et techniques</h1>
 
-<h3>*camera</h3>
+<h3>*projecteur</h3>
 
 <h3>*ordinateur</h3>
 
@@ -63,7 +63,7 @@ Chroniques célestes utilise de la projection à 360 degrés dans un espace gran
 
 <h3>*cable d'alimentation</h3>
 
-<h3>*HDMI extendeur</h3>
+<h3>*haut parleur</h3>
 </br>
 </br>
 
@@ -75,9 +75,9 @@ Chroniques célestes utilise de la projection à 360 degrés dans un espace gran
 
 <h3>*prise</h3>
 
-<h3>*wifi</h3>
+<h3>*éléctricité</h3>
 
-<h3>*lumieur qui met en evidence l'oevrue</h3>
+<h3>*toit rond</h3>
 </br>
 </br>
 
@@ -89,7 +89,7 @@ Chroniques célestes utilise de la projection à 360 degrés dans un espace gran
 
 <h1>Expérience vécue</h1>
 
-Le visiteur dois se placer sur le scotche blanck qui est a la bonne distance pour activer l'interraction. Le visiteur n'auras qu'a attendre un cours lapse de temps pour activer la prise de video qui vas etre diviser en deux parti.
+Le visiteur s'assit dans l'un des siege et entre dans l'immersion d'un monde qu"ons lui précente autoure de lui en levant les yeux.
 
 ![onze](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_onze.png)
 
