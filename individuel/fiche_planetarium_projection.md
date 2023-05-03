@@ -48,6 +48,8 @@ immersive
 
 ![quatre](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_quatre.png)
 
+<h1>Fonction du dispositif</h1> 
+
 <h1>Mise en espace</h1>
 
 Chroniques célestes utilise de la projection à 360 degrés dans un espace grand avec un toit rond pour l'immersion dans l'espace qu'ons veut nous montrer, des chaise son disposer en rond autour du projecteur permettant de tous se disposer pour regarder l'immersion.
