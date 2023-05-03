@@ -6,7 +6,7 @@ Planétarium
 
 <h1>Lieu</h1>
 
-Arsenal art contemporain Montréal plus précisement à 2020 Rue William, Montréal, QC H3J 1R8. 
+Planétarium Rio Tinto Alcan
 
 ![huit](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/devant.png)
 
@@ -17,31 +17,31 @@ Arsenal art contemporain Montréal plus précisement à 2020 Rue William, Montr�
 
 <h1>Date de ma visite</h1>
 
-Jeudi 02 février 2023.
+dimanche 26 mars 2023.
 
 <h1>Titre de l'oeuvre</h1>
 
-Bilateral Time Slicer
+Un mois de mai avec la Lune
 
 ![ensemble](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/Bian_ensemblev.png)
 
 <h1>Nom de l'artiste</h1>
 
-Raphael Lozano-Hemmer
+
+Le spectacle "Chroniques célestes" présenté au Planétarium de Montréal a été créé par l'équipe de production du Planétarium de Montréal en collaboration avec le studio montréalais Moment Factory.
 
 <h1>Année de réalisation	</h1>
 
-2016
+2018
 
 <h1>Description de l'oeuvre</h1>
 
-l'oeuvre utilise un systeme de suivi biométrique qui trouve l'axe de symétrie d'une personne de public en utilisant la détection d'un visage. Quand il trouve un viase et l'axe une orientation a peut prés verticale est opérée ce qui divide l'imga de la caméras en direct en deux parties. À chaque nouveaux visitant une partis divisée en deux est de nouveaux ajouter, les tranches de temps qui a etais pris et diviser en deux sont enregistrées et mis de coté ce qui crées un sandwitch de video pris. 
 
 ![deux](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_deux.png)
 
 <h1>Type d'installation</h1>
 
-interactive
+immersive
 
 ![trois](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_trois.png)
 
@@ -49,7 +49,7 @@ interactive
 
 <h1>Mise en espace</h1>
 
-l'ecran est acoter au mur de maniéure horizantale, a son saumer il si trouve un capteur de mouvent qui repére et enregistre la personne se trouvent a la bonne distance qui est elle même définit par une ligne blanche au sol ce qui permet au public de savoir ou se mettre pour que le capteur de mouvemtn les detecter et puisse commencer son enregisterement. En haut a gauche et a droite de l'ecran avec une légaire distance si trouve un faisaut de lumieur diriger vers le Bilateral Time Slicer.
+Chroniques célestes utilise de la projection à 360 degrés dans un espace grand avec un toit rond pour l'immersion dans l'espace qu'ons veut nous montrer, des chaise son disposer en rond autour du projecteur permettant de tous se disposer pour regarder l'immersion.
 
 ![dix](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_dix.png)
 
