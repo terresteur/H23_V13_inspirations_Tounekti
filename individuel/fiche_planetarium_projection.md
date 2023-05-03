@@ -103,5 +103,5 @@ Ce qui m'a déplus dans cette oevrue C'est le manque d'effet sonore percutant en
 
 
 <h1>Références</h1>
-(https://www.lozano-hemmer.com/texts/manuals/bilateral_time_slicer.pdf)
+(https://comm-espacepourlavie.ca/horaire-planetarium/?Codelang=Fr)
 
