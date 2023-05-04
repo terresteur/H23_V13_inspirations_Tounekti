@@ -33,7 +33,7 @@ Ces une installation interactive et immersive
 
 <h2>Mise en espace</h2>
 Le dispositive est installé dans le petit studio, le visuel est difuser grace a des projecteur sur tout les mur de la piece sauf le mur de ou se trouve la porte. L'ardinateur qui permet d'activer l'animation se trouve sur une petite table au milieu de la piéce.
-![devant](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/Mycelium/medias/MicrosoftTeams-image%20(4).png)
+![devant](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/Mycelium/medias/Sans%20titre%20-%203%20copie.pdf)
 <h2>Composantes et techniques</h2>
 -animation des animaux et de la mer
 -site web
