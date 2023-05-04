@@ -46,15 +46,18 @@ Le spectacle "Chroniques célestes" présenté au Planétarium de Montréal a é
 
 immersive
 
-![materiel2](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/materiel2.png)
+
+
+![materiel2](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/MicrosoftTeams-image%20(1).png)
 
 <h1>Fonction du dispositif</h1> 
-
+Les chaises son placer en rond pour correspandre a 360 degrés de la projection.
+![dix](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/MicrosoftTeams-image%20(2).png)
 <h1>Mise en espace</h1>
 
 Chroniques célestes utilise de la projection à 360 degrés dans un espace grand avec un toit rond pour l'immersion dans l'espace qu'ons veut nous montrer, des chaise son disposer en rond autour du projecteur permettant de tous se disposer pour regarder l'immersion.
 
-![dix](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_dix.png)
+![dix](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/MicrosoftTeams-image.png)
 
 <h1>Composantes et techniques</h1>
 
@@ -70,9 +73,9 @@ Chroniques célestes utilise de la projection à 360 degrés dans un espace gran
 </br>
 </br>
 
-![sept](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_sept.png)
+![sept](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/materiel1.png)
 
-![trois](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_trois.png)
+![trois](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/materiel3.png)
 
 <h1>Éléments nécessaires à la mise en exposition</h1>
 
@@ -84,17 +87,13 @@ Chroniques célestes utilise de la projection à 360 degrés dans un espace gran
 </br>
 </br>
 
-![un](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_un.png)
-
-![cinq](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_cinq.png)
-
-![six](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_six.png)
+![un](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/materiel4.png)
 
 <h1>Expérience vécue</h1>
 
 Le visiteur s'assit dans l'un des siege et entre dans l'immersion d'un monde qu"ons lui précente autoure de lui en levant les yeux.
 
-![onze](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/BIAN/medias/numero_onze.png)
+![onze](https://github.com/terresteur/H23_V13_inspirations_Tounekti/blob/main/individuel/medias/MicrosoftTeams-image%20(3).png)
 
 <h1>Ce qui ma plus</h1>
 
